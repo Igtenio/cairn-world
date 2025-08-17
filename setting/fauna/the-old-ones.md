@@ -23,3 +23,9 @@ The Old Ones, having vanished prior to humanity, predate the death of the gods. 
 - Them being an early version of humanity
 
 As with most things, the more fantastical tales tend to be told by those to whom the tale benefits, while the more banal stories are often the ones given scholarly pursuit due to actual evidence.
+
+## The Truth
+
+The Old Ones are immortal souls which reincarnate, born to humanity but rarely feeling of it, they tend to congregate together. The only thing physically distinguishing them from normal people is that their hair, barring changes, is always naturally grey.
+
+Due to their introversion, even people who know of this aren't aware of the entirety of the truth. The majority of people who've learned the truth assume the Old Ones now are the same ones people refer to discussing the historical Old Ones, and whatever befell them then ended with them somehow living on through reincarnation. In truth, not even the modern Old Ones know; while their memories do span beyond their existing lifetime, and they feel more comfortable in uncivilized spaces, none of the modern members have clear memories beyond a few hundred years in the past.

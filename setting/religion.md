@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Fauna
+title: Religion
 parent: Setting
 has_children: true
-nav_order: 3
+nav_order: 2
 ---
 
-# Fauna
+# Religion
