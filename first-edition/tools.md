@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Tools
-parent: First Edition
+title: Generators
+parent: Tools
 has_children: true
 redirect_from: /tools/
 ---
