@@ -8,13 +8,13 @@ has_children: false
 
 # The Ancient Ministry of Life
 
-**Common Name:** The Ministry
-**Type:** Religious
-**Agents:** Laborers
-**Traits:** Popular, Incompetent
-**Advantages(2):** Beliefs, Fealty
-**Agenda:** Spread a Belief
-**Obstacle:** Outcome Leads to War
+- **Common Name:** The Ministry
+- **Type:** Religious
+- **Agents:** Laborers
+- **Traits:** Popular, Incompetent
+- **Advantages(2):** Beliefs, Fealty
+- **Agenda:** Spread a Belief
+- **Obstacle:** Outcome Leads to War
 
 ## About
 The Ministry is a disparate collection of practitioners dedicated to both furthering the abilities of their adherents and helping people on the frontiers of civilization.
