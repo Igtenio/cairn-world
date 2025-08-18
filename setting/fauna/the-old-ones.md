@@ -1,10 +1,10 @@
 ---
-layout: default
-title: The Old Ones
+#layout: default
+#title: The Old Ones
 #parent: Fauna
 #grandparent: Setting
-has_children: false
-nav_order: 2
+#has_children: false
+#nav_order: 2
 ---
 
 # The Old Ones
