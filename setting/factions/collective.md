@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Faction Name
+title: Collective of the Savage Blue
 parent: Factions
 grand_parent: Setting
 has_children: false

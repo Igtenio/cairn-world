@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Faction Name
+title: The Ancient Ministry of Life
 parent: Factions
 grand_parent: Setting
 has_children: false
 ---
 
-# Ancient Ministry of Life
+# The Ancient Ministry of Life
 
 **Common Name:** The Ministry
 **Type:** Religious
