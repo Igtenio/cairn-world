@@ -9,12 +9,12 @@ nav_exclude: true
 
 # Faction Name
 
-**Common Name:**
-**Type:**
-**Agents:**
-**Traits:**
-**Advantages(#):**
-**Agenda:**
-**Obstacle:**
+- **Common Name:**
+- **Type:**
+- **Agents:**
+- **Traits:**
+- **Advantages(#):**
+- **Agenda:**
+- **Obstacle:**
 
 ## About
