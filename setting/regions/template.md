@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Region Name
-#parent: Regions
-#grand_parent: Setting
+parent: Regions
+grand_parent: Setting
 has_children: false
-nav_exclude: true
+published: false
 ---
 
 # Region Name

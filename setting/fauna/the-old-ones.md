@@ -5,7 +5,6 @@ parent: Fauna
 grandparent: Setting
 has_children: false
 nav_order: 2
-#nav_exclude: true
 published: false
 ---
 
