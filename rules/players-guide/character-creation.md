@@ -3,31 +3,14 @@ layout: default
 title: Character Creation
 parent: Player's Guide
 grand_parent: Rules
+nav_order: 1
 ---
 
 # Character Creation 
 
-## Roll or choose a Background
+## Name, Careers, Backgrounds
 
-- First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
-- Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/second-edition/players-guide/marketplace) as well.
-
-## Backgrounds
-
-|         |                                                                                 |        |                                                                             |
-| ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
-| **d20** | **Background**                                                                  |        |                                                                             |
-| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)               | **11** | [Half-Witch](/second-edition/backgrounds/half-witch)     |
-| **2**   | [Barber-Surgeon](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
-| **3**   | [Beast Handler](/second-edition/backgrounds/beast-handler)   | **13** | [Jongleur](/second-edition/backgrounds/jongleur/)        |
-| **4**   | [Bonekeeper](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/second-edition/backgrounds/kettlewright) |
-| **5**   | [Cutpurse](/second-edition/backgrounds/cutpurse)             | **15** | [Marchguard](/second-edition/backgrounds/marchguard/)    |
-| **6**   | [Fieldwarden](/second-edition/backgrounds/fieldwarden/)      | **16** | [Mountebank](/second-edition/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Outrider](/second-edition/backgrounds/outrider)         |
-| **8**   | [Foundling](/second-edition/backgrounds/foundling)           | **18** | [Prowler](/second-edition/backgrounds/prowler)           |
-| **9**   | [Fungal Forager](/second-edition/backgrounds/fungal-forager) | **19** | [Rill Runner](/second-edition/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](/second-edition/backgrounds/greenwise/)          | **20** | [Scrivener](/second-edition/backgrounds/scrivener)       |
+First, players pick their PC’s **name**, **pronouns**, **appearance**, and other such details. Next, they make up to **4 Career choices**. A PC’s career informs their potential knowledge and skills. See [Careers & Skills](/second-edition/players-guide/careers-skills).
 
 ## Attributes, Hit Protection, and Traits 
 
@@ -45,6 +28,10 @@ grand_parent: Rules
 
 - Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/second-edition/players-guide/core-rules#healing--recovery). 
 - If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/second-edition/players-guide/core-rules#scars) table.
+
+## Preferred Weapon
+
+When creating a character, the player chooses one **Damage Type Proficiency** (bludgeoning, piercing, slashing) to be proficient in. This means they gain the benefits that the damage type gives, such as bludgeoning ignoring 1 Armor (see [Weapon Skills](/second-edition/players-guide/weapons-armor-gear#weapon-skills)). They also choose one weapon to gain **Weapon Skill Proficiency** in, meaning they can use the weapon’s tag (Bleed, Brutal, Shock) right away. They can also add this weapon to their inventory.
 
 ## Inventory
 

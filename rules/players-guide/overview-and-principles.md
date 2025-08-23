@@ -3,6 +3,7 @@ layout: default
 title: Overview & Principles
 parent: Player's Guide
 grand_parent: Rules
+nav_order: 6
 ---
 
 # Overview & Principles

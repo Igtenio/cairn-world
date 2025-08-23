@@ -3,6 +3,7 @@ layout: default
 title: Marketplace
 parent: Player's Guide
 grand_parent: Rules
+nav_order: 3
 ---
 
 # Marketplace 

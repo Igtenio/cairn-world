@@ -15,7 +15,9 @@ The game I'm running with this world and modification is a duet game; one DM, on
 
 ## Rules Changes
 
-A lot of it is bringing in interesting things from BPD, which I think does a lot to make solitary PCs more feasible. For one thing, the careers system is pretty great. I like skills.
+A lot of it is bringing in interesting things from BPD[^BPD], which I think does a lot to make solitary PCs more feasible. For one thing, the careers system is pretty great. I like skills. Things to give some mechanical depth to the non-combat sections.
+
+[^BPD]: The Cairn variant, not the disorder.
 
 ## Game Running Ethos
 

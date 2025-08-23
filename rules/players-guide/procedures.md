@@ -2,7 +2,8 @@
 layout: default
 title: Procedures
 parent: Player's Guide
-grand_parent: Rules
+grand_parent: 
+nav_order: 5
 ---
 
 # Procedures

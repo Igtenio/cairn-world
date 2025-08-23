@@ -3,6 +3,7 @@ layout: default
 title: Core Rules
 parent: Player's Guide
 grand_parent: Rules
+nav_order: 2
 ---
 
 # Core Rules
