@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Name, Careers, Backgrounds
 
-First, players pick their PC’s **name**, **pronouns**, **appearance**, and other such details. Next, they make up to **4 Career choices**. A PC’s career informs their potential knowledge and skills. See [Careers & Skills](/rules/players-guide/careers-skills).
+First, players pick their PC’s **name**, **pronouns**, **appearance**, and other such details. Next, they make up to **4 Career choices**. A PC’s career informs their potential knowledge and skills. See [Careers & Skills](/cairn-world/rules/players-guide/careers-skills).
 
 ## Attributes, Hit Protection, and Traits 
 
@@ -26,12 +26,12 @@ First, players pick their PC’s **name**, **pronouns**, **appearance**, and oth
 
 ## Hit Protection
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/rules/players-guide/core-rules#healing--recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/rules/players-guide/core-rules#scars) table.
+- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/cairn-world/rules/players-guide/core-rules#healing--recovery). 
+- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn-world/rules/players-guide/core-rules#scars) table.
 
 ## Preferred Weapon
 
-When creating a character, the player chooses one **Damage Type Proficiency** (bludgeoning, piercing, slashing) to be proficient in. This means they gain the benefits that the damage type gives, such as bludgeoning ignoring 1 Armor (see [Weapon Skills](/rules/players-guide/weapons-armor-gear#weapon-skills)). They also choose one weapon to gain **Weapon Skill Proficiency** in, meaning they can use the weapon’s tag (Bleed, Brutal, Shock) right away. They can also add this weapon to their inventory.
+When creating a character, the player chooses one **Damage Type Proficiency** (bludgeoning, piercing, slashing) to be proficient in. This means they gain the benefits that the damage type gives, such as bludgeoning ignoring 1 Armor (see [Weapon Skills](/cairn-world/rules/players-guide/weapons-armor-gear#weapon-skills)). They also choose one weapon to gain **Weapon Skill Proficiency** in, meaning they can use the weapon’s tag (Bleed, Brutal, Shock) right away. They can also add this weapon to their inventory.
 
 ## Inventory
 

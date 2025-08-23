@@ -24,4 +24,4 @@ A Weald Elk is a sort of natural automaton, created by a forest when a particula
 Weald Elks are typically 5' to 6' 6" at their shoulder, and weigh between 2200lbs and 3000lbs.
 
 
-(Derived from [Blood Elk](/rules/wardens-guide/bestiary/#blood-elk))
+(Derived from [Blood Elk](/cairn-world/rules/wardens-guide/bestiary/#blood-elk))
