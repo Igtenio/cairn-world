@@ -2,7 +2,7 @@
 layout: default
 title: Pillars
 parent: Magic
-grand-parent: Setting
+grandparent: Setting
 has_children: false
 nav_order: 99
 ---
@@ -33,12 +33,28 @@ Importantly, Augment *cannot* provide knowledge or abilities outside of what the
 >
 > After the invaders are repelled, the Priest attempts to scavenge some more supplies where he found the herbs during the battle, to gain more supplies to help the survivors. Generally speaking, this would be the purview of an Herbalist; Healers don't tend to go out and get their own herbs unless it's an emergency. Augment is unable to help in this activity.
 
-When Augment is active and you engage in this activity, you gain advantage to your rolls related to it. This can be both physical and knowledge-based rolls; someone with Augment(Combat) would get the bonus during combat, and when examining a sword for combat-worthiness or sizing up who's leading an ambushing party.
+When Augment is active and you engage in this activity, you gain rerolls to the activity equal to your investment. After a reroll, you must take the new result, unless you choose to use an additional reroll. This can be both physical and knowledge-based rolls; someone with Augment(Combat) would get the bonus during combat, and when examining a sword for combat-worthiness or sizing up who's leading an ambushing party.
 
 Certain Augment skills will absolutely have overlap; this is completely fine. Augment(Sailing) and Augment(Shipwright) may both provide a bonus if the player activates one and asks about the condition of a vessel for sailing. As long as it's within the purview of the active Augment(s), it's covered.
+
+## Bolster
+Defense
+**Mechanics:** 
+
+## Cantrip
+Minor Effects
+**Mechanics:** 
+
+## Control
+By itself, adjust dice. In conjunction, allow fine control of other effects.
+**Mechanics:** 
 
 ## Mend
 
 This Pillar, often used by craftsmen, allows things and people to be repaired and healed directly.
 
+**Mechanics:** 
+
+## Movement
+Increase movement
 **Mechanics:** 

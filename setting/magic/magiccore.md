@@ -2,7 +2,7 @@
 layout: default
 title: Magic Core Rules
 parent: Magic
-grand-parent: Setting
+grandparent: Setting
 has_children: false
 nav_order: 1
 ---
@@ -34,3 +34,21 @@ Going back to our example of the initiate priest, his full magical stats might b
 * Limit: Can only affect their own body with spells(Taboo to heal non-mourners of their god)
 * Pillars: Augment(Healing), Mend
 
+## Mechanics
+
+When a Practitioner uses Magic, they choose a number of empty, available inventory slots to **Invest** in the spellcasting. These inventory slots are blocked off while invested, similar to fatigue, but can be returned at will.
+
+These investments are represented with d6s. It's recommended the d6s be a different color than the player's normal dice, to help differentiate their normal dice from their "Magic Dice". When using spells, these dice are used in a variety of ways; at times, they're merely used as tokens, used to count rerolls or charges. Other times, they're damage dice. Please see the appropriate Pillar for how a particular effect uses them.
+
+These dice remain between effects; if a Practitioner invests 3, they can use the full 3d6 for a Movement, then Damage, then Augment effect.
+
+Practitioners, by default, can only utilize a single Pillar at a time. If they wish to use multiple Pillars simultaneously on distinct effects, the cost is;
+
+* For each additional, separate effect
+
+The remaining investment pool is then split between the two effects.
+
+{: .note }
+> Despite the "One Pillar by Default" rule, players should feel free to describe the cosmetic effects as they wish when utilizing singular Pillars; someone wanting to use *Movement* to ram into an enemy and describes them as having streaks of flame because they're a fire mage shouldn't need to also utilize *Damage(Fire)* to conjure fire or *Cantrip* to show an effect, unless they want to pump up the damage beyond hitting an enemy like a truck.
+>
+> On the other hand, in the same scenario, it's entirely fair to argue the player takes damage too unless they also utilize *Bolster*, considering they're hitting an enemy at terminal velocity.
