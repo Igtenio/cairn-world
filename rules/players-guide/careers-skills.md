@@ -126,6 +126,28 @@ Gladiators are specialists in individual combat and are primarily motivated by g
 
 **Trinket (d4):** 1. Small, broken piece of an old helmet 2. Vial of sand from an arena 3. Torn piece of a rival's cloak 4. Crude drawing of a lion
 
+### Healer
+
+While not every village has a priest or other Practitioner able to utilize magic to help in healing people, most villages have someone able to provide mundane healing. Healers are typically the frontline for keeping a community healthy; whether that's recommending that people add a certain food to their diet due to symptoms, doing minor stitching and bandaging, or just checking on children to make sure they're healthy as they come up.
+
+**Common knowledge**: You’re skilled at non-magical means of healing and knowledgeable about medicine, diet and anatomy.
+
+- *"How bad is their injury?"*
+- *"Could people survive on a diet of this?"*
+- *"How long could a person live losing this amount of blood?"*
+
+**Skills**: 
+
+- **Allies & Morale**: Mediator
+- **Combat**: Crippling Shot, Fancy Footwork, Hard to Kill
+- **Esoteric & Arcane**: Devotion
+- **Knowledge**: Cook, First Aid, Herbalist, Librarian, Loremaster
+- **Exploration**: Scavenger, Scout, Survival Expert
+- **Socializing**: 
+- **Tricks & Subterfuge**: Poison Resistance, Poisoner
+
+**Trinket (d4):** 1. Leather gloves gifted to them 2. Mint leaves 3. Vial of purified alcohol 4. Bandages soaked in aloe
+
 ### Hunter
 
 The hunter is a master of tracking prey through the wilderness and the wastelands. Once hunters locate their target, they’ll use stealth, traps, and expert bowmanship to bring it down. They are at home in the wild and can survive there for long periods, returning to more civilized areas only when they have furs and hides to sell or when they require the company of their fellow men.
@@ -255,7 +277,7 @@ Priests have devoted their lives to something higher, be it a god, demon, a conc
 - **Allies & Morale**: Mediator
 - **Combat**: Bludgeoning Proficiency, True Strikes
 - **Esoteric & Arcane**: Devotion, Lay On Hands, Sensitive Nose, Third Eye, Words of Grace
-- **Knowledge**: Healer, Learned, Librarian, Loremaster
+- **Knowledge**: First Aid, Learned, Librarian, Loremaster
 
 **Trinket (d4):** 1. Worn prayer bead 2. Small vial of holy water 3. Fragment of a sacred text 4. Piece of a relic
 
@@ -312,7 +334,7 @@ You’re not driven by glory (you’re not a gladiator) or gold (you’re not a 
 - **Allies & Morale**: Commander, Inspiring, Singer
 - **Combat**: Armor Expert, Firm Grip, Hard to Kill, Mounted Warrior, Piercing Proficiency, Protect, Slashing Proficiency, Trooper
 - **Exploration**: Mount Mastery
-- **Knowledge**: Healer
+- **Knowledge**: First Aid
 
 **Trinket (d4):** 1. Medal with a faded inscription 2. Broken arrow 3. Piece of a battle-worn flag 4. Last will and testament
 
@@ -413,9 +435,9 @@ Skills are grouped in a few broad categories, to help with navigation and select
 
 | **Name**          | **Description**                                              |
 | ----------------- | ------------------------------------------------------------ |
-| Devotion          | You gain +1 Faith Die, up to a total of 4.                   |
+| Devotion          | You gain +1 Magic(Emanation), up to a total of 4. You cannot take this if you have any other Magic attribute.|
 | Elemental         | Choose an element, such as Fire or Ice. You always have 3 Armor against magical damage of that element. |
-| Gifted            | You gain +1 Magic Dice, to a maximum of 4.                   |
+| Gifted            | You gain +1 Magic(Manifestation), up to a total of 4. You cannot take this if you have any other Magic attribute.|
 | Heightened Senses | You get a "weird feeling" when there's a secret passage close to you. |
 | Lay On Hands      | Once per day, cure someone of a disease or poison, or heal 1d6 STR. |
 | Magic-Sense       | You can tell when arcane energies are at work and where.     |
@@ -450,7 +472,7 @@ Skills are grouped in a few broad categories, to help with navigation and select
 | Bureaucrat | You know the local laws and rules and how to bend them in your favor. |
 | Cook       | You’re skilled at cooking and preparing food.                |
 | Crafty     | You know how to repair non-magical objects.                  |
-| Healer     | You’re skilled at non-magical means of healing and knowledgeable about medicine and anatomy. |
+| First Aid  | You’re skilled at non-magical means of healing. |
 | Herbalist  | You know which plants and herbs can heal or produce interesting effects. |
 | Learned    | You’ve enjoyed a broad general education in a topic of choice, such as history, politics, biology, or philosophy. |
 | Librarian  | You are skilled at obtaining information from libraries.     |

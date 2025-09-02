@@ -18,9 +18,9 @@ Importantly, Augment *cannot* provide knowledge or abilities outside of what the
 {: .note }
 > What constitutes "within the purview" or "outside the purview" of a profession will absolutely vary by your game. While some things should be a no-brainer(The cook should probably...cook), others will just depend, not just on the setting, but also where you are. My recommendation for this disparity is;
 >
-> A: Consider the smallest, most rural place that profession may be, and base it off that. For instance, Blacksmiths generally never exist without miners; miners are either in mines nearby, or Blacksmiths import the raw goods from mines. Hence, Augment(Blacksmith) should never provide a bonus to mining ore veins. But, if in your world, ores can't be transported for whatever reason, maybe the smallest villages with a Blacksmith have that Blacksmith also mine. In which case, Augment(Blacksmith) absolutely should.
+> A: Consider the smallest, most rural place that profession may be, and base it off that. For instance, typically Blacksmiths never exist without miners; miners are either in mines nearby, or Blacksmiths import the raw goods from mines. Hence, Augment(Blacksmith) shouldn't provide a bonus to mining ore veins. But if in your world it's very common that every village with a Blacksmith has them mining their own material, Augment(Blacksmith) absolutely should.
 >
-> B: Be consistent. Using the above world, someone using Augment(Blacksmith) in the Cities, where Blacksmiths buy all their ore, doesn't lose the mining bonus just because they're in a place the profession don't need to mine, or suddenly gain it if they go to a place they need it.
+> B: Be consistent. Using the above example world, someone using Augment(Blacksmith) in the Cities, where Blacksmiths buy all their ore, doesn't lose the mining bonus just because they're in a place the profession don't need to mine, or suddenly gain it if they go to a place they need it.
 >
 > Obviously, you can adjust this in the interest of making something interesting, but these are good starts.
 
@@ -35,15 +35,26 @@ Importantly, Augment *cannot* provide knowledge or abilities outside of what the
 
 When Augment is active and you engage in this activity, you gain rerolls to the activity equal to your investment. After a reroll, you must take the new result, unless you choose to use an additional reroll. This can be both physical and knowledge-based rolls; someone with Augment(Combat) would get the bonus during combat, and when examining a sword for combat-worthiness or sizing up who's leading an ambushing party.
 
-Certain Augment skills will absolutely have overlap; this is completely fine. Augment(Sailing) and Augment(Shipwright) may both provide a bonus if the player activates one and asks about the condition of a vessel for sailing. As long as it's within the purview of the active Augment(s), it's covered.
+Certain Augment skills will absolutely have overlap; this is completely fine. Augment(Sailing) and Augment(Shipwright) may both provide a bonus if the player activates one and asks about the condition of a vessel for sailing. As long as it's within the purview of the active Augment(s), it's covered. If a player activates multiple Augments and they overlap on an activity, only one is active; you cannot simultaneously activate Augment(Sailing) and Augment(Shipwright), then get ((Magic-1)x2) rerolls on checking the condition of a vessel because that activity is covered by both.
 
 ## Bolster
 Defense
 **Mechanics:** 
 
 ## Cantrip
-Minor Effects
-**Mechanics:** 
+Cantrip allows a Practitioner to create minor effects.
+
+Examples of these could be;
+
+- Light
+- Small gusts of wind
+- The sensation of a touch
+- Minor illusions(the equivalent of helping with stage magic)
+- Ventriloquism
+
+**Mechanics:** The important part of cantrip effects is that, by themselves, they do not provide mechanical benefits. Creating a little gust of wind doesn't mean you can knock things off a table with it; it's solely a sensation effect.
+
+Roll all invested dice; the more 4+, the stronger the effect.
 
 ## Control
 By itself, adjust dice. In conjunction, allow fine control of other effects.

@@ -44,7 +44,7 @@ These dice remain between effects; if a Practitioner invests 3, they can use the
 
 Practitioners, by default, can only utilize a single Pillar at a time. If they wish to use multiple Pillars simultaneously on distinct effects, the cost is;
 
-* For each additional, separate effect
+- For each additional, separate effect
 
 The remaining investment pool is then split between the two effects.
 
